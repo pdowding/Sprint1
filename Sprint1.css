@@ -1,0 +1,39 @@
+ * {
+  border: 1px solid red;
+ }
+#middle {
+  height: 600px;
+  background-color: #ddf5fe;
+}
+#header {
+  height: 30px;
+}
+#bottom {
+  height: 30px;
+}
+.circle {
+  background-color: #1382b7;
+  display: inline-block;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+#text_above_circles {
+font-size: 40px;
+text-align: center;
+font-family: Arial;
+
+}
+
+.circle_text1 {
+
+
+}
+.circle_text2 {
+
+
+}
+
+#circle_text {
+  display: inline-block;
+}
